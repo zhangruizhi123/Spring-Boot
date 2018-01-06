@@ -203,16 +203,16 @@ public class FileUtils
 	}
 	*/
 	
-	public static void main(String[] args)
-	{
-		String base="C:\\Users\\admin\\Desktop\\新建文件夹\\";
-		try
-		{
-			zipFile(base+"README.txt",base+"\\abc\\dd");
-		} catch (Exception e)
-		{
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-	}
+//	public static void main(String[] args)
+//	{
+//		String base="C:\\Users\\admin\\Desktop\\新建文件夹\\";
+//		try
+//		{
+//			zipFile(base+"README.txt",base+"\\abc\\dd");
+//		} catch (Exception e)
+//		{
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//		}
+//	}
 }

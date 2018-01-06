@@ -39,7 +39,7 @@ public class StringUtils {
 		return DigestUtils.md5Hex(str);
 	}
 	
-	public static void main(String[] args) {
-		System.out.println(DigestUtils.md5Hex("hello").length());
-	}
+//	public static void main(String[] args) {
+//		System.out.println(DigestUtils.md5Hex("hello").length());
+//	}
 }
